@@ -76,6 +76,6 @@ This project demonstrates a real-world Security Information and Event Management
 
 ## Author
 
-Nipun Perera
-Undergraduate
-NSBM Green University
+-**Nipun Perera**
+-Undergraduate
+-NSBM Green University
