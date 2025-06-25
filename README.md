@@ -68,14 +68,14 @@ This project demonstrates a real-world Security Information and Event Management
 
 ## 💼 Skills Demonstrated
 
--🧠 SIEM implementation and configuration
--🛠️ Linux and Windows log integration
--🔐 Cybersecurity monitoring and threat detection
--📦 OpenSearch and Filebeat pipeline understanding
--📁 Linux system configuration and automation
+- 🧠 SIEM implementation and configuration
+- 🛠️ Linux and Windows log integration
+- 🔐 Cybersecurity monitoring and threat detection
+- 📦 OpenSearch and Filebeat pipeline understanding
+- 📁 Linux system configuration and automation
 
 ## Author
 
 -**Nipun Perera**
--Undergraduate
--NSBM Green University
+- Undergraduate
+- NSBM Green University
